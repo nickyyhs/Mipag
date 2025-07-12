@@ -1,0 +1,31 @@
+body {
+  color: #333;
+   background-image: url("../Fotos/fondo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed; 
+  color: #434141; 
+}
+
+
+h1, h2, h3 {
+  color: #0d0007;
+}
+
+.margenFoto {
+margin-bottom:40px;
+
+}
+.margenFotomas {
+margin-bottom:  100px;
+
+}
+.otrocol{
+background-color: #ada382 !important; 
+color: white;
+}
+.boton{
+    margin-top: 30px;
+}
+
